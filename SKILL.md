@@ -19,6 +19,7 @@ allowed-tools:
   - Skill
   - AskUserQuestion
   - TodoWrite
+reviewed: true
 ---
 
 # Claudeception
